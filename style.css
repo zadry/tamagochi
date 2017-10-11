@@ -1,0 +1,73 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Oct 10, 2017, 6:21:54 PM
+    Author     : javv
+*/
+#frame{
+    border: solid;
+    border-color: black;
+    width: 750px;
+    height: 500px;
+}
+#controles{
+    border: solid;
+    border-color: black;
+    width: 750px;
+    height: 100px;
+    
+}
+#comer{
+    
+    width: 100px;
+    height: 100px;
+    
+   float: left;
+   
+}
+#dormir{
+    border-left: solid;
+    border-color: black;
+    width: 100px;
+    height: 100px;
+    float: left;
+  
+}
+#guitar{
+    border-left: solid;
+    border-color: black;
+    width: 100px;
+    height: 100px;
+    float: left;
+}
+#caminar{
+    border-left:  solid;
+    border-color: black;
+    width: 100px;
+    height: 100px;
+    float: left;
+}
+#vertv{
+    border-left: solid;
+    border-color: black;
+    width: 100px;
+    height: 100px;
+     float: left;
+}
+#estudiar{
+    border-left: solid;
+    border-color: black;
+    width: 100px;
+    height: 100px;
+    float: left;
+}
+#internet{
+    border-left: solid;
+    border-color: black;
+    width: 100px;
+    height: 100px;
+    float: left;
+}
